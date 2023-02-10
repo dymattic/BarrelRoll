@@ -1,0 +1,7 @@
+## Interface: 11402
+## Title: BarrelRoll Addon
+## Author: Dymattic
+## Version: 0.0.1
+## Notes: Makes a BarrelRoll sound when Rolling as Monk
+
+BarrelRoll.lua
