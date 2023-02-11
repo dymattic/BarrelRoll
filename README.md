@@ -2,7 +2,6 @@
 
 > Everytime you roll with your monk you hear the legendary "Do A Barrelroll" sound in your head?
 
- 
 
 > Well now you can actually hear it.
 
@@ -12,8 +11,9 @@
 
 World of Warcraft BarrelRoll Addon
 
-## Addon Manager Downloads
 
-[Wago.IO](https://addons.wago.io/addons/barrelroll)
-[CurseForge](https://www.curseforge.com/wow/addons/barrelroll)
+#### Addon Manager Downloads
+
+- [Wago](https://addons.wago.io/addons/barrelroll)
+- [CurseForge](https://www.curseforge.com/wow/addons/barrelroll)
 
