@@ -12,4 +12,8 @@
 
 World of Warcraft BarrelRoll Addon
 
-https://www.curseforge.com/wow/addons/barrelroll
+## Addon Manager Downloads
+
+[Wago.IO](https://addons.wago.io/addons/barrelroll)
+[CurseForge](https://www.curseforge.com/wow/addons/barrelroll)
+
